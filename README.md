@@ -4,9 +4,9 @@ This project presents a detailed implementation and comparison of Generative Adv
 
 📁 Datasets Used
 
-MNIST Digits: 70,000 images of handwritten digits
+- MNIST Digits: 70,000 images of handwritten digits
 
-Fashion-MNIST: 70,000 images of fashion items
+- Fashion-MNIST: 70,000 images of fashion items
 
 🚀 Model Architectures
 
@@ -32,7 +32,7 @@ Fashion-MNIST: 70,000 images of fashion items
 
 - Loss = Reconstruction Loss + KL Divergence
 
-More information is provided in Architecture and Analysis.pdf.
+More information is provided in Architecture and Analysis.pdf
 
 📊 Evaluation Metrics
 
